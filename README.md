@@ -14,6 +14,16 @@ The clients on visiting our html webpage will be welcomed with clear purpose of 
 The five filters of date, city, state, country and shape will help our clients to see the UFOs of different shape seen in differents parts of country.
 All the five filters can be applied for focussed view of clients.
 
+### Main HTML page 
+
+
+
+
+<img width="1680" alt="main html page " src="https://user-images.githubusercontent.com/75267605/111042464-8a9d3f80-840b-11eb-9ea0-0048cf761cc3.png">
+
+
+
+
 
 ## Deliverable 1 
 
